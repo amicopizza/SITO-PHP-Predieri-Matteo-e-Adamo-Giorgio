@@ -219,7 +219,7 @@ CREATE TABLE `sitedetail` (
 --
 
 INSERT INTO `sitedetail` (`tempId`, `systemName`, `email`, `contact1`, `contact2`, `address`, `dateTime`) VALUES
-(1, 'Pizza World', 'darshanparmar263@gmail.com', 2515469442, 6304468851, '601 Sherwood Ave.<br> San Bernandino', '2021-03-23 19:56:25');
+(1, 'Pizza World', 'cristianoronaldo@gmail.com', 2515469442, 6304468851, 'via sium 23', '2021-03-23 19:56:25');
 
 -- --------------------------------------------------------
 
